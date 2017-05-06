@@ -8,6 +8,6 @@ Used descriptive statistics and Chi Sqaure Test for Independence to investigate 
 </p>
 </br>
 <p align="left">
-  <img src="chis.JPG" width="600"/>
+  <img src="chis.JPG" width="700"/>
 </p>
 
