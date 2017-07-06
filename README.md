@@ -1,6 +1,6 @@
 ## Investigate the Titanic Dataset
 Language: Python (pandas, NumPy, Matplotlib, SciPy, PyLab) </br>
-Skills: Hypothesis testing, Data visualization, Data Wranggling </br>
+Skills: Hypothesis Testing, Data Visualization, Data Wranggling </br>
 Used descriptive statistics and Chi Sqaure Test for Independence to investigate factors that made people more likely to survive. 
 </br>
 <p align="left">
